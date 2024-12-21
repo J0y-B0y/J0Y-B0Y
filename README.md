@@ -1,6 +1,3 @@
-[![GitHub Banner](https://github.com/J0y-B0y/J0Y-B0Y/blob/main/Resources/GitHub%20Greet.png)](https://github.com/J0y-B0y/J0Y-B0Y/blob/main/Resources/GitHub%20Greet.png)
------
-
 ## Gracious Welcome to the Realm of Innovation by Divjot Singh
 
 Greetings and salutations, esteemed visitors. I am **Divjot Singh**, an aspiring software developer fervently devoted to crafting the technological marvels of tomorrow. With a robust foundation in community management and a profound ardor for the ever-evolving realm of technology, I stand at the confluence of innovation and pragmatism. As I ardently seek summer internship opportunities, I invite you to peruse my projects and witness the meticulous dedication I invest in each endeavor. May our paths converge in this digital atelier, where ideas transform into reality.
